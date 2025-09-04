@@ -4,7 +4,7 @@ Code for running numerical tests on optimal control examples, intended for a lat
 
 ## Contents
 
-### Cart-pendulum
+### Cart pendulum system (optimal control)
 - Riccati equation
 - Shooting method
 - Classical Hamiltonian Simulation
