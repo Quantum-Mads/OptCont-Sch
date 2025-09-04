@@ -1,10 +1,13 @@
 # OptCont-Sch
-Code for running numerical tests on optimal control problems using Schrödingerization methods.
 
-Cart-pendulum:
-- Ricatti equation
+Code for running numerical tests on optimal control examples, intended for a later implementation of **Schrödingerization methods**.
+
+## Contents
+
+### Cart-pendulum
+- Riccati equation
 - Shooting method
 - Classical Hamiltonian Simulation
 
-SRI model:
+### SRI model
 - Classical Hamiltonian Simulation
