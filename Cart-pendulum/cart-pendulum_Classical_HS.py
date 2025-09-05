@@ -36,7 +36,7 @@ R = np.array([[1e-2]])  # 0.01
 H = np.diag([0.0, 10, 50.0, 10.0])
 
 x_ref = np.array([1.0, 0.0, np.pi, 0.0])
-x0    = np.array([-1.0, 0.0, np.pi, 0.0])
+x0    = np.array([-1.0, 0.0, np.pi+0.1, 0.0])
 e0    = x0 - x_ref  # initial error
 
 
