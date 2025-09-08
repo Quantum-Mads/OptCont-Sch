@@ -9,5 +9,5 @@ Code for running numerical tests on optimal control examples, intended for a lat
 - Shooting method
 - Classical Hamiltonian Simulation
 
-### SRI model
-- Classical Hamiltonian Simulation
+### Harmonic oscillators model
+- Classical Hamiltonian Simulation (not exactly)
